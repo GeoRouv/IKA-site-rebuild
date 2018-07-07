@@ -21,5 +21,7 @@ Preview of site(First Half):
 
 ![Screenshot](Screenshot_1.png)
 
-\
+
 (Second Half)\
+
+![Screenshot](Screenshot_3.png)
