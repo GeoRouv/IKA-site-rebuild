@@ -12,7 +12,7 @@ Password : 1234
 Username : tea\
 Password : qwerty
 
-Username : Will_S_Jason\ 
+Username : Will_S_Jason\
 Password : mystikoskwdikos
 
 The folder under the name "sdi1400173" which contains the source code must be copied exatcly on the folder "htdocs" of your computer so it can run on your localhost.
