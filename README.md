@@ -6,13 +6,13 @@ For the calculation of pension and insurance, no realistic methods have been use
 
 Three accounts have been already imported in the database and can be used:
 
-Username : g_rouv 
+Username : g_rouv\
 Password : 1234
 
-Username : tea 
+Username : tea\
 Password : qwerty
 
-Username : Will_S_Jason 
+Username : Will_S_Jason\ 
 Password : mystikoskwdikos
 
 The folder under the name "sdi1400173" which contains the source code must be copied exatcly on the folder "htdocs" of your computer so it can run on your localhost.
