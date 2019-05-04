@@ -17,11 +17,11 @@ Password : mystikoskwdikos
 
 The folder under the name "sdi1400173" which contains the source code must be copied exatcly on the folder "htdocs" of your computer so it can run on your localhost.
 
-# Preview of site(First Half):
+## Preview of site(First Half):
 
 ![Screenshot](Screenshot_1.png)
 
 
-# (Second Half):
+## (Second Half):
 
 ![Screenshot](Screenshot_3.png)
