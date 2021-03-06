@@ -1,4 +1,4 @@
-# IKA site rebuild and upgrade
+# IKA-site-rebuild
 
 The goal was to redesign the site of the Greek Social Insurance Institute(IKA) in a way that has an appeal to users and make it easy for them to navigate through it. This implementation divides the users in four distinct categories (insured, retired, employees and disabled). Insured and retired categories are developed thoroughly.
 
